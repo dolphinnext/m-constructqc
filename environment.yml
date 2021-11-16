@@ -23,3 +23,4 @@ dependencies:
   - ghostscript
   - bamutil=1.0.15
   - pysamstats=1.1.2
+  - biopython
