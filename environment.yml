@@ -13,7 +13,7 @@ dependencies:
   - trimmomatic=0.39
   - boto3=1.18.21
   - igvtools=2.5.3
-  - bedtools=2.27.1
+  - bedtools
   - ucsc-wigToBigWig=377
   - ucsc-bedgraphtobigwig
   - r-ggplot2
@@ -24,3 +24,13 @@ dependencies:
   - bamutil=1.0.15
   - pysamstats=1.1.2
   - biopython
+  - r-optparse
+  - r-testit
+  - r-formattable
+  - r-plotrix
+  - r-readxl
+  - r-tidyverse
+  - r-cowplot
+  - numpy
+  - seaborn
+  - matplotlib
